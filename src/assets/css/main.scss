@@ -1,0 +1,15 @@
+
+@font-face {
+  font-family: "FZQINGKBYSJF";
+  src: url("../fonts/SourceHanSerifCN-SemiBold.OTF") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+$--el-color-primary: #724a2b;
+$el-color-primary: #724a2b;
+
+:root {
+  --el-color-primary: #724a2b !important;
+}
